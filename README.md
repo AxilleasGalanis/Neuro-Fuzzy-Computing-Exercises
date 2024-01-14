@@ -16,10 +16,3 @@ The course consists of 3 homework problem sets, 1 programming project.
 
 ### Instructor:
 - [Dimitrios Katsaros](https://faculty.e-ce.uth.gr/dkatsar/)
-
-## Authors:
-* [Eleftherios P. Loukas](https://github.com/eloukas) - eleftheriosloukas@gmail.com
-* [Panagiotis Nikitakis](https://github.com/pnikitakis) - pnikitakis@uth.gr
-
-
-
