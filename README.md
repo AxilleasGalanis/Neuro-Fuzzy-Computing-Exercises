@@ -11,8 +11,5 @@
  
 2. Fuzzy Logic & Fuzzy Subset Theory
 
-### Course Structure:
-The course consists of 3 homework problem sets, 1 programming project.
-
 ### Instructor:
 - [Dimitrios Katsaros](https://faculty.e-ce.uth.gr/dkatsar/)
