@@ -4,10 +4,12 @@
 
  - Feedforward
  - Recurrent
+ - Hebbian
  - Radial Basis
  - Competitive (SOM, LVQ)
  - Convolutional
  - Deep architectures
+ - Optimization methods
  
 2. Fuzzy Logic & Fuzzy Subset Theory
 
