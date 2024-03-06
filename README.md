@@ -4,7 +4,7 @@
 
  - Feedforward
  - Recurrent
- - Hebbian
+ - Hebbian rule
  - Radial Basis
  - Competitive (SOM, LVQ)
  - Convolutional
